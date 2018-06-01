@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package>
+  <name>robot</name>
+  <version>0.0.0</version>
+  <description>Ensenso end effector for Fanuc M10iA</description>
+  <maintainer email="my_mail@gmail.com">Name</maintainer>
+  <license>All rights reserved</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
